@@ -1,3 +1,5 @@
+create database library;
+use library;
 create table uyeler(
 uye_no int primary key,
 uye_ad nvarchar(50),
